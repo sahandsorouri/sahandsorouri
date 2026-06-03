@@ -51,6 +51,17 @@ Load unpacked from the repo. No Chrome Web Store listing.
 | [pm-case-empathy-ig-analytics](https://github.com/sahandsorouri/pm-case-empathy-ig-analytics) | AI Instagram analytics (Empathy TPM assessment + docs) |
 | [pm-case-tether-translator](https://github.com/sahandsorouri/pm-case-tether-translator) | Offline-first AI translator PRD + PDFs |
 
+## Client work (live sites)
+
+Built for clients. The code is private, so these link to the live sites.
+
+| Project | Live |
+|---------|------|
+| primehome — proptech, Abu Dhabi | [primehomesabudhabi.com](https://primehomesabudhabi.com) |
+| PetGraphy — pet photography, Dubai | [petgraphy.ae](https://petgraphy.ae) |
+| MISA Pastries — bakery, Dubai | [misapastries.com](https://misapastries.com) |
+| Zahra Taghitabar — portfolio | [zahratabar.com](https://zahratabar.com) |
+
 ## Site and resume
 
 | Repo | Link |
