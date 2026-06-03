@@ -56,7 +56,7 @@ Load unpacked from the repo. No Chrome Web Store listing.
 | Repo | Link |
 |------|------|
 | [portfolio-website](https://github.com/sahandsorouri/portfolio-website) | [sahand.sorouri.com](https://sahand.sorouri.com) |
-| [resume-latex](https://github.com/sahandsorouri/resume-latex) | LaTeX CV source (may be older than the site) |
+| [senior-pm-resume](https://github.com/sahandsorouri/senior-pm-resume) | LaTeX resume source and PDF, plus a reusable template |
 | [comfi-dealer-financing-pitch](https://github.com/sahandsorouri/comfi-dealer-financing-pitch) | Client pitch page — [comfi.sorouri.com](https://comfi.sorouri.com) |
 
 ## Background
