@@ -14,7 +14,7 @@ I ship AI products end to end: Next.js, Python, Claude and OpenAI APIs, Telegram
 
 | Repo | What it is | Stack | Live |
 |------|------------|-------|------|
-| [niya-emotion-audit](https://github.com/sahandsorouri/niya-emotion-audit) | Brand customer-journey **emotion coherence audit** (built for client Niya / Activate Vision) | Node, Claude API | [niya.sorouri.com](https://niya.sorouri.com) |
+| [niya-emotion-audit](https://github.com/sahandsorouri/niya-emotion-audit) | Brand customer-journey **emotion coherence audit** (built for client Niya / Activate Vision) | Node.js (Claude API optional) | [niya.sorouri.com](https://niya.sorouri.com) |
 | [ai-resume-job-matcher](https://github.com/sahandsorouri/ai-resume-job-matcher) | Upload resume, crawl jobs, ranked match scores | Next.js, OpenAI, Firecrawl | [deep-job-researcher.sorouri.com](https://deep-job-researcher.sorouri.com) |
 | [telegram-checklist-bot](https://github.com/sahandsorouri/telegram-checklist-bot) | Gamified tasks and reminders inside Telegram | FastAPI, Telegram, Postgres | [checklist.sorouri.com](https://checklist.sorouri.com) · [@mytickupbot](https://t.me/mytickupbot) |
 | [readwise-highlights-feed](https://github.com/sahandsorouri/readwise-highlights-feed) | Readwise highlights as a vertical scroll feed | Next.js, IndexedDB | [bookfeed.sorouri.com](https://bookfeed.sorouri.com) |
