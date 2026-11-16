@@ -2,7 +2,7 @@
 
 I build websites, client platforms, WhatsApp and Telegram bots and AI tools for businesses in Dubai. You get what you asked for, and the parts you will need next: tracking, follow-ups, the dashboard your team wants in month three.
 
-**40+ tools, bots and platforms live today** · **AED 50M deal from a platform built in 15 days** · **7 years leading product**
+**40+ tools, bots and platforms live today** · **AED 50M deal from a platform built in 5 weeks** · **7 years leading product**
 
 [Website](https://sahand.sorouri.com) · [LinkedIn](https://linkedin.com/in/sahand-sorouri) · [WhatsApp or Telegram](https://sahand.sorouri.com/#contact) · hi@sorouri.com
 
